@@ -29,11 +29,6 @@ Sistema de gestão sob medida
 
 Plugin WordPress desenvolvido depois de identificar que a plataforma pronta avaliada pela cliente não atenderia ao negócio, porque os produtos dela tinham muitas personalizações.
 
-Vídeos educativos animados
-
-Série de vídeos em animação isométrica gerados por código (React + Remotion), produzidos com IA para o conteúdo da agência.
-
-<!-- Insira aqui um GIF curto de um trecho do vídeo -->
 🌐 Sites em produção
 Recrie Profissionais — e-commerce com personalização por bordado, pagamento e frete integrados
 Haras Primavera — plugin para registro e exibição de pedigree de cavalos
